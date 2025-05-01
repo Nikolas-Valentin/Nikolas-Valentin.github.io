@@ -4,7 +4,7 @@ This is my home page! My name is Nikolas Urbina and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHub page is https://nikolas-valentin.github.io/
+My GitHub page is [https://nikolas-valentin.github.io/](https://nikolas-valentin.github.io/)
 ### CPSC 120
 
  
